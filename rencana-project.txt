@@ -1,10 +1,13 @@
 Rencana Project Kharis
 
-- Web Series
 - Web Prorgamming
+ > Interview
 - Apply job Web Programming
 - Upgrade Skill
 - Upgrade Personality
+ > Public Speaking
+- Framework
+- Project
  > E-Commerce
  > Profile
  > Business
