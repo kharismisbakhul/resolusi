@@ -5,3 +5,4 @@ Rencana Project Kharis
 - Apply job Web Programming
 - Upgrade Skill
 - Upgrade Personality
+ > E-Commerce
