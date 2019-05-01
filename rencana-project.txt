@@ -6,3 +6,6 @@ Rencana Project Kharis
 - Upgrade Skill
 - Upgrade Personality
  > E-Commerce
+ > Profile
+ > Business
+ > Organization
