@@ -7,3 +7,8 @@ Rencana Project Kharis
 - Upgrade Personality
  > Public Speaking
 - Framework
+- Project
+ > E-Commerce
+ > Profile
+ > Business
+ > Organization
