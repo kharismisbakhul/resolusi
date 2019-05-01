@@ -1,2 +1,2 @@
-# resolusi
+
 Resolusi Kharis
